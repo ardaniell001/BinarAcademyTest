@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Binar Ardanil</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="tap_image">Tap Gambar Untuk Mengubah</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Nomor Handphone</string>
+    <string name="udpate_data">Update Data</string>
+</resources>
